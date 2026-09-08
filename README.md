@@ -9,11 +9,6 @@ Progetto finale per il corso di **Foundations of Computer Science** (Laurea Magi
 
 ---
 
-## 👤 Autrice
-
-* **Aurora Castelnovo** (Matricola: 864811)
-
----
 
 ## 📌 Descrizione del Progetto
 
